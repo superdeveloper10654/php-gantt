@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve" style="&#10;">
+<g id="Outline_Icons">
+	<g>
+		<g>
+			<polygon fill="#fff" stroke="#999" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="     21.5,23.5 2.5,23.5 2.5,0.5 15.5,0.5 21.5,6.5    "/>
+			<polyline fill="#fff" stroke="#999" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="     15.5,0.5 15.5,6.5 21.5,6.5    "/>
+		</g>
+		
+	</g>
+</g>
+<g id="Invisible_Shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

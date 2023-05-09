@@ -1,0 +1,36 @@
+<svg width="100" height="112" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style>.cls-1{fill:#fff;}.cls-2{fill:none;}.cls-3,.cls-5{fill:#fff;}.cls-4,.cls-6{fill:none;}.cls-4,.cls-5,.cls-6{stroke:#333;}.cls-4,.cls-5{stroke-linecap:round;stroke-linejoin:round;}.cls-6{stroke-miterlimit:10;}</style>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title></title>
+
+  <g stroke="null" id="svg_23">
+   <path stroke="null" id="svg_2" d="m76.423167,67.869728l-49.333041,0l0,-26.870792a4.484822,4.741904 0 0 1 4.484822,-4.741904l40.363397,0a4.484822,4.741904 0 0 1 4.484822,4.741904l0,26.870792z" class="cls-2"/>
+   <rect stroke="null" id="svg_3" height="4.741904" width="10.464584" y="75.772902" x="46.524354" class="cls-3"/>
+   <rect stroke="null" id="svg_4" height="4.741904" width="10.464584" y="75.772902" x="46.524354" class="cls-4"/>
+   <path stroke="null" id="svg_5" d="m59.97882,80.514806l-16.444347,0a2.989881,3.16127 0 0 0 -2.989881,3.16127l0,1.580635l22.42411,0l0,-1.580635a2.989881,3.16127 0 0 0 -2.989881,-3.16127z" class="cls-5"/>
+   <path stroke="null" id="svg_6" d="m71.938345,75.772902l-40.363397,0a4.484822,4.741904 0 0 1 -4.484822,-4.741904l0,-3.16127l49.333041,0l0,3.16127a4.484822,4.741904 0 0 1 -4.484822,4.741904z" class="cls-5"/>
+   <path stroke="null" id="svg_7" d="m27.090126,67.869728l0,-26.870792a4.484822,4.741904 0 0 1 4.484822,-4.741904l25.413991,0l-29.898813,31.612697z" class="cls-3"/>
+   <path stroke="null" id="svg_8" d="m76.423167,67.869728l-49.333041,0l0,-26.870792a4.484822,4.741904 0 0 1 4.484822,-4.741904l40.363397,0a4.484822,4.741904 0 0 1 4.484822,4.741904l0,26.870792z" class="cls-4"/>
+   <rect stroke="null" id="svg_9" ry="1" rx="1" height="22.128888" width="40.363397" y="40.998936" x="31.574948" class="cls-2"/>
+   <path stroke="null" id="svg_10" d="m52.504117,40.998936l-19.434228,0a1.494941,1.580635 0 0 0 -1.494941,1.580635l0,18.967618a1.494941,1.580635 0 0 0 0.433533,1.106444l20.495636,-21.654697z" class="cls-3"/>
+   <rect stroke="null" id="svg_11" ry="1" rx="1" height="22.128888" width="40.363397" y="40.998936" x="31.574948" class="cls-4"/>
+   <line stroke="null" id="svg_12" y2="63.127823" x2="39.049651" y1="40.998936" x1="39.049651" class="cls-4"/>
+   <line stroke="null" id="svg_13" y2="45.74084" x2="36.05977" y1="45.74084" x1="34.564829" class="cls-4"/>
+   <line stroke="null" id="svg_14" y2="48.90211" x2="36.05977" y1="48.90211" x1="34.564829" class="cls-4"/>
+   <line stroke="null" id="svg_15" y2="52.063379" x2="36.05977" y1="52.063379" x1="34.564829" class="cls-4"/>
+   <line stroke="null" id="svg_16" y2="55.224649" x2="36.05977" y1="55.224649" x1="34.564829" class="cls-4"/>
+   <line stroke="null" id="svg_17" y2="58.385919" x2="36.05977" y1="58.385919" x1="34.564829" class="cls-4"/>
+   <line stroke="null" id="svg_18" y2="45.74084" x2="46.524354" y1="45.74084" x1="42.039532" class="cls-4"/>
+   <line stroke="null" id="svg_19" y2="48.90211" x2="56.988939" y1="48.90211" x1="45.029413" class="cls-4"/>
+   <line stroke="null" id="svg_20" y2="52.063379" x2="49.514235" y1="52.063379" x1="45.029413" class="cls-4"/>
+   <line stroke="null" id="svg_21" y2="55.224649" x2="49.514235" y1="55.224649" x1="42.039532" class="cls-4"/>
+   <line stroke="null" id="svg_22" y2="58.385919" x2="54.746528" y1="58.385919" x1="45.029413" class="cls-4"/>
+  </g>
+ </g>
+</svg>

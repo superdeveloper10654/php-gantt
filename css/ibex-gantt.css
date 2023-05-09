@@ -1,0 +1,12 @@
+.dhxtabbar_base_material div.dhxtabbar_tabs div.dhxtabbar_tabs_base div.dhxtabbar_tab div.dhxtabbar_tab_text {
+    position: relative;
+    height: 40px;
+    line-height: 42px;
+    background-color: #fafafa;
+    vertical-align: middle;
+    text-align: center;
+    padding: 0 16px;
+    overflow: hidden;
+    font: inherit;
+    text-transform: none;
+}

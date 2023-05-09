@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 29 21">
+    <title>Start to Finish</title>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M8 13v7H0v-7h8zm1-1H0v9h9v-9z" fill="#999"/>
+        <path fill="#fff" d="M8 13H0v7h8z"/>
+        <path d="M21 1v7h8V1h-8zm-1-1h9v9h-9V0z" fill="#999"/>
+        <path fill="#fff" d="M21 1h8v7h-8z"/>
+        <path fill="#000" stroke-linecap="round" stroke-linejoin="round" d="M20 4h-4v1h4zM17 16H9v1h8zM17 5h-1v11h1zM12 14h-1v1h1zM13 13h-1v1h1zM11 15h-1v1h1z"/>
+        <path fill="#000" stroke-linecap="round" stroke-linejoin="round" d="M13 14h-1v1h1zM14 13h-1v1h1zM12 15h-1v1h1z"/>
+        <path fill="#000" stroke-linecap="round" stroke-linejoin="round" d="M11 17h-1v1h1zM12 18h-1v1h1zM13 19h-1v1h1z"/>
+        <path fill="#000" stroke-linecap="round" stroke-linejoin="round" d="M12 17h-1v1h1zM13 18h-1v1h1zM14 19h-1v1h1z"/>
+    </g>
+</svg>

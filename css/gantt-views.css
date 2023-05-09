@@ -1,0 +1,73 @@
+.gantt-views {
+  position: fixed;
+  right: -200px;
+  top: 200px;
+  -webkit-transition: all 400ms ease;
+  -moz-transition: all 400ms ease;
+  -ms-transition: all 400ms ease;
+  -o-transition: all 400ms ease;
+  transition: all 400ms ease;
+  z-index: 3;
+}
+.gantt-views .gv-button {
+  position: absolute;
+  left: -36px;
+  height: 36px;
+  width: 36px;
+  top: 10px;
+  background: rgba(0, 0, 0, 0.9);
+  -moz-border-radius: 5px 0px 0px 5px;
+  -webkit-border-radius: 5px 0px 0px 5px;
+  border-radius: 5px 0px 0px 5px;
+  font-size: 19px;
+  color: #FFF;
+  line-height: 34px;
+  text-align: center;
+  cursor: pointer;
+}
+.gantt-views .gv-body {
+  width: 200px;
+  background: rgba(0, 0, 0, 0.9);
+  -moz-border-radius: 5px 0px 0px 5px;
+  -webkit-border-radius: 5px 0px 0px 5px;
+  border-radius: 5px 0px 0px 5px;
+  padding: 10px 10px 10px;
+  color: #FFF;
+}
+.gantt-views .gv-body .gv-title {
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 20px;
+  margin-bottom: 5px;
+  margin-top: 10px;
+}
+.gantt-views .gv-body .gv-title:first-child {
+  margin-top: 0px;
+}
+.gantt-views .gv-body .gv-row {
+  margin-bottom: 5px;
+}
+.gantt-views.active {
+  right: 0px;
+}
+.gantt-views .gv {
+  width: 100%;
+  margin-top: 10px;
+}
+.gantt-views .gv a {
+  width: 30px;
+  height: 30px;
+  margin-right: 6px;
+  margin-bottom: 5px;
+  display: inline-block;
+}
+.gantt-views .gv a img {
+  width: 30px;
+  height: 30px;
+}
+.gantt-views .gv a.active img {
+  border: 2px solid #FFF;
+}
+.gantt-views #gv-wallpapers {
+  display: none;
+}

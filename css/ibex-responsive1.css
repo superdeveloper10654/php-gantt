@@ -1,0 +1,499 @@
+@media only screen and (min-width: 1024px) and (max-width: 2560px) {}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {}
+
+@media only screen and (min-width: 425px) and (max-width: 767px) {}
+
+@media only screen and (min-width: 375px) and (max-width: 424px) {}
+
+@media only screen and (min-width: 320px) and (max-width: 374px) {}
+
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+  ul#header {
+    display: none !important;
+  }
+  ul#responsive-header {
+    display: block !important;
+    background: #fff !important;
+    /*box-shadow: none;*/
+    /*border-bottom: solid 1px #ddd !important;*/
+    z-index:2;
+  }
+  .responsive-header-title {
+    display: block;
+    position: relative;
+
+}
+  img.logo-nav {
+    height: 35px;
+    margin-right: 10px;
+  }
+  span.heading-text {
+    /*display: none;*/
+  }
+
+
+  
+div#responsive-header-menu.dropdown-menu {
+    background: #fff;
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 50px!important;
+    border: none;
+    height: calc(100vh - 40px) !important;
+    top: 50px !important;
+    transform: none !important;
+}
+  ul#responsive-gantt-toolbar-top {
+    display: block !important;
+    box-shadow: none;
+    border: 0 !important;
+    padding: 0 !important;
+    position: relative !important;
+}
+  div#gantt-toolbar-bottom {
+    position: fixed;
+    bottom: 0;
+}
+  span.menu-text {
+    font-size: 0.8rem !important;
+    font-weight: 600;
+    color: #212529;
+  }
+  .dropdown-item {
+    padding: 1rem !important;
+    font-size: 0.8rem !important;
+    font-weight: 600;
+  }
+  .dropdown-item:first-child {
+    border: none;
+    margin-top: 20px !important;
+  }
+  button.dropdown-item {
+    margin-bottom: 20px;
+    color: #333 !important;
+    padding: 0.5rem !important;
+}
+  .nav-tabs .nav-item.open .nav-link, .nav-tabs .nav-link.active {
+    border-bottom: none !important;
+}
+  .col {
+    /*flex: none;*/
+}
+  ::-webkit-scrollbar {
+    display: none;
+  }
+  ul.nav.nav-tabs.ul-task-editor {
+    display: none !important;
+}
+ul#responsive-task-editor {
+    display: contents !important;
+}
+  .modal-dialog {
+    margin: 0;
+    height: 100%;
+  }
+  .modal-dialog .modal-content {
+    -webkit-border-radius: 0;
+    border-radius: 0;
+    height: 100%;
+  }
+  .nav-tabs .nav-item.show .nav-link {
+    background-color: inherit;
+}
+  .modal-body {
+    max-height: unset !important;
+  }
+  .tab-content {
+    padding: 0;
+  }
+  .modal-header {
+    padding: 1rem;
+    background: #fff !important;
+  }
+.card-body {
+    padding: 10px 0px 30px 0px;
+}
+  .col {
+    /*padding: 0 10px 0px 10px;*/
+}
+  div#resources,
+  div#files,
+  div#activity {
+    padding: 0;
+    background: #fff;
+  }
+  div#table_resources {
+    height: calc(100vh - 130px);
+    margin-top: -1px;
+  }
+  a.edit-resource.row {
+    padding: 0 5px;
+}
+  .resource-name.row,
+  .resource-group.row,
+  .resource-notes.row,
+  .resource-company.row,
+  .resource-name.row,
+  #resource-cost-rate
+  {
+    float: left;
+    margin: 0 10px 0 0;
+    width: auto;
+}
+  
+  
+  
+  
+  
+  div#resources,
+  div#files,
+  div#activity {
+    padding: 0;
+    background: #fff;
+  }  
+  a.edit-resource
+  {
+    width: 50%;
+  }
+  [data-cell-id="resources"] {
+ /* display: none !important; */
+  }
+  div#responsive-gantt-options {
+    display: block !important;
+    position: fixed;
+    bottom: 0;
+    margin: 8px;
+  }
+div#gantt_here {
+    position: relative;
+    padding: 0 0 0 5px;
+}
+  div#gantt-toolbar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: 10px 10px 10px 0;
+  }
+  button#add-project,
+  button#add-task,
+  button#add-milestone,
+  button.toggle-baseline-visibility,
+  button.toggle-deadline-visibility {
+    display: none !important;
+  } 
+  
+  div#view-dropdown-options {
+    margin: 0 !important;
+    border: solid 1px #ddd !important;
+}
+  
+  div#show-hide-grid {
+    display: block !important;
+  }
+  button#hide-grid,
+  button#show-grid,
+  button#modal_date_range,
+  button#gantt-toolbar-insert
+  {
+    float: left;
+    margin: 5px;
+    padding: 10px;
+    height: auto !important;
+    line-height: inherit !important;
+    text-transform: capitalize !important;
+    border-radius: 4px !important;
+    font-size: 12px !important;
+    background: #fafafa !important;
+    color: #999 !important;
+    border-color: #ddd !important;
+  }  
+  div#responsive-toolbar-gantt-insert,
+  div#responsive-editor-more
+  {
+    background: #fbfbfb;
+    width: 100%;
+    margin: 0 !important;
+    padding: 0 50px!important;
+    border: none;
+    height: calc(100vh - 40px) !important;
+    transform: none !important;
+}
+  div#responsive-editor-more {
+    padding-top: 50px !important;
+    top: 67px !important;
+}  
+.feed-item {
+    width: 100% !important;
+    float: left !important;
+    margin-left: 0;
+    border-bottom: solid 1px #eee;
+}
+    .activity-feed .feed-item .text {
+    margin-right: 0;
+}
+  .feed-item.feed-item-active {
+    border-left: dashed 2px #f90 !important;
+}
+  .feed-item.feed-item-other {
+    text-align: left;
+    border-right: none;
+}
+  .feed-item.feed-item-other:after {
+    left: -11px !important;
+    right: auto !important;
+}
+  .feed-item.feed-item-other.feed-item-active {
+    background: #fff !important;
+    border-left: dashed 2px #f90 !important;
+    border-right: none;
+}
+  .feed-item-inactive {
+    border-left: dashed 2px #999 !important;
+}
+  .feed-item-avatar {
+    float: none;
+    margin: 0 0 15px 0;
+    position: relative;
+    display: block !important;
+}  
+  .activity-feed .feed-item .date {
+    text-align: left;
+}
+  
+  
+  
+  .form-control, .select-wrapper input.select-dropdown, input#task_edit_bar_colour {
+    font-size: 12px !important;
+}
+  .select-wrapper+label,
+  .md-form label
+  {
+    font-size: 12px !important;
+    padding-left: 10px;
+}
+  a#responsive-header-menu,
+a.dropdown-item,
+  a.profile
+  {
+    text-decoration: none !important;
+}
+  .file-edit
+  {
+    width: 100%;
+    height: auto;
+  }  
+  div#files-sidebar {
+    display: none;
+}
+  #table_files {
+    margin-top: -1px;
+}
+  .col-md-9 {
+    height: calc(100vh - 130px);
+    overflow: auto;
+}
+  div#gantt-toolbar-top {
+    display: block !important;
+}
+input#new_comment_text {
+    display: flex;
+    float: left;
+    width: calc(100% - 51px);
+}
+  span.input-group-text {
+
+}
+   div.col.leftside {
+    /*flex: none !important;*/
+    width: 50% !important;
+    padding-right: 0 !important;
+}
+  div.col.rightside {
+    /*flex: none !important; */
+    width: 50% !important; 
+    padding-left: 0 !important;
+  }
+
+  .container-permission-groups>.md-form>label.form-check-label {
+    left: 0 !important;
+}
+.st-menu {
+    width: 200px;
+}
+
+
+
+  .st-menu {
+    top: 0;
+    border-right: solid 1px #eee;
+}
+
+  .header-toolbar-button > .header-text {
+    display: none;
+}
+
+.header-toolbar-button {
+    padding: 5px 10px;
+}
+  button#btn-zoom-hours {
+    display: none;
+}
+  button#btn-zoom-days {
+    display: none;
+}
+  button.btn-zoom-to-fit {
+    display: none;
+}
+  a.insert-project
+  {
+    display: none;
+}
+  #gantt-activity>.activity-feed {
+    width: 100vw;
+    padding-bottom: 150px;
+}
+  #messages-dropdown-options {
+    width: 100vw;
+    box-shadow: none !important;
+    border: none !important;
+    top: -1px !important;
+}
+  div#messages-invite {
+    display: none;
+}
+  div#messages-teams {
+    display: none;
+}
+  div#messages-contacts {
+    height: auto;
+    max-height: 50vh;
+    overflow: auto;
+}
+  div#messages-content {
+    height: auto;
+    max-height: 50vh;
+    overflow: auto;
+}
+  
+.gantt_grid_head_cell.gantt_grid_head_add.gantt_last_cell {
+    background-color: #00b289;
+    border-radius: 100px;
+    width: 30px !important;
+    height: 30px;
+    position: inherit;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25) !important;
+  visibility: visible;
+}
+  .search-wrapper {
+    margin: 0;
+}
+  input.search-box.ibex-tooltip.form-control {
+    margin: 10px 0;
+}
+  #gantt-header-toolbar,
+   #resources-header-toolbar,
+  #files-header-toolbar
+  {
+    display: block;
+    border-top: solid 1px #ddd;
+    padding: 5px;
+      margin: 0;
+}
+button.header-toolbar-button.insert-project {
+    display: none;
+
+}
+  button.header-toolbar-button.add-file-unique {
+
+}
+button#gantt-activity {
+    float: right;
+}
+  .st-menu ul li a {
+    font-size: 0.8rem;
+  }
+  #messaging-dropdown-options {
+    position: fixed !important;
+    top: 40px !important;
+    right: 0 !important;
+    transform: none !important;
+    width: 100vw;
+    height: calc(100vh - 40px);
+    box-shadow: none !important;
+    border: none;
+}
+    #view-dropdown-options {
+    position: fixed !important;
+    top: 40px !important;
+    right: 0 !important;
+    transform: none !important;
+    width: 100vw;
+    height: calc(100vh - 40px);
+    box-shadow: none !important;
+    border: none;
+}
+  table#table_task_columns>tbody>tr {
+    width: 100%;
+}
+  .col-md-3,
+  .col-md-9 {
+    /*height: auto !important;*/
+  }
+tr.select-recipient-thread {
+background: #fff;
+}
+  div#messaging-contacts {
+    display: none;
+}
+div#messaging-footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100vw;
+    margin: 0 0 50px 0 !important;
+  /*padding: 0 !important;*/
+}
+  div#new-message-input-group {
+    display: contents;
+}
+ #gantt, #resources, #files, #activity {
+    padding: 10px 0;
+}
+  .gantt_grid_head_add {
+    background-image: url(../img/svg/insert-white.svg) !important;
+
+}
+  #quiz-wrapper {
+    width: 100vw;
+    left: 0;
+}
+  input#resource_search_text,
+  input#file_search_text
+  {
+    border: none !important;
+    box-shadow: none !important;
+}
+  div#messages-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+  
+  .row.row-settings {
+    padding: 20px;
+}
+  
+  button.manage-teams {
+    width: 100% !important;
+    margin: 10px 0 !important;
+}
+  button.manage-people {
+    width: 100% !important;
+    margin: 10px 0 !important;
+}
+  
+  
+  
+  
+}
+  @media only screen and (min-width: 1px) and (max-width: 319px) {}

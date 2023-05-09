@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
+<g id="Outline_Icons">
+	<g>
+		<path fill="none" stroke="#999" stroke-linejoin="round" stroke-miterlimit="10" d="M9.5,17.5v-10h6c1.104,0,2,0.896,2,2v3h4v5    H9.5z"/>
+		<polyline fill="none" stroke="#999" stroke-linejoin="round" stroke-miterlimit="10" points="0.5,2 0.5,14.5 3.5,14.5     4.458,7.416   "/>
+		<path fill="none" stroke="#999" stroke-linejoin="round" stroke-miterlimit="10" d="M10.851,7.378l-7.652-6.43    c-0.652-0.544-1.612-0.501-2.213,0.1C0.384,1.648,0.341,2.608,0.885,3.261l8.55,9.772"/>
+		<path fill="none" stroke="#999" stroke-linejoin="round" stroke-miterlimit="10" d="M0.5,14.5c0,0,0,1.188,0,2.5    s0.531,3.031,2.875,3.031s3.344-2.094,3.344-2.094S3.5,19.438,3.5,14.5C0.781,14.5,0.5,14.5,0.5,14.5z"/>
+		<path fill="none" stroke="#999" stroke-linejoin="round" stroke-miterlimit="10" d="M23.5,21.5c0,1.104-0.896,2-2,2h-11    c-1.104,0-2-0.896-2-2s0.896-2,2-2h11C22.604,19.5,23.5,20.396,23.5,21.5z"/>
+	</g>
+</g>
+<g id="invisible_shape">
+	<rect fill="none" width="24" height="24"/>
+</g>
+</svg>

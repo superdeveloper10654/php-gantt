@@ -1,0 +1,3 @@
+.gantt_layout_cell_border_bottom.gantt_layout_x:first-child{
+transform: rotateX(45deg) rotateY(1deg) rotateZ(1deg);
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 29 21">
+    <title>Start to Start</title>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M21 13v7h8v-7h-8zm-1-1h9v9h-9v-9z" fill="#999"/>
+        <path fill="#fff" d="M21 13h8v7h-8z"/>
+        <path d="M21 1v7h8V1h-8zm-1-1h9v9h-9V0z" fill="#999"/>
+        <path fill="#fff" d="M21 1h8v7h-8z"/>
+        <path fill="#000" d="M20 4h-8v1h8zM13 5h-1v11h1z"/>
+        <g fill="#000">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M20 16h-8v1h8zM18 14h-1v1h1zM17 13h-1v1h1zM19 15h-1v1h1z"/>
+            <path stroke-linecap="round" stroke-linejoin="round" d="M17 14h-1v1h1zM15 13h1v1h-1zM18 15h-1v1h1z"/>
+            <path stroke-linecap="round" stroke-linejoin="round" d="M19 17h-1v1h1zM18 18h-1v1h1zM17 19h-1v1h1z"/>
+            <path stroke-linecap="round" stroke-linejoin="round" d="M18 17h-1v1h1zM17 18h-1v1h1zM15 19h1v1h-1z"/>
+        </g>
+    </g>
+</svg>
+
